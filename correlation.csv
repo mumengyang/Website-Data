@@ -1,4 +1,4 @@
-"","GDP","Income Index","Employment Rate","Female Population Rate","Billionaire Population","Corruption Perception Score","Education Index","Number of International Arrivals","Internet User Rate"
+"","GDP","Income Index","Employment Rate","Female Population Rate","Billionaire Population","Corruption Perception Score","Education Index","International Arrivals","Internet User Rate"
 "GDP",1,0.2298,0.0012,0.0152,0.9497,0.2126,0.2085,0.6649,0.1964
 "Income Index",0.2298,1,-0.2392,-0.2472,0.2004,0.6848,0.8315,0.3944,0.8779
 "Employment Rate",0.0012,-0.2392,1,-0.2604,0.0116,-0.0331,-0.2579,-0.1067,-0.1986
