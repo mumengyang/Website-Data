@@ -2,39 +2,39 @@
   "nodes": [
     {
       "id": 1,
-      "name": "F-test"
+      "name": "FT"
     },
     {
       "id": 2,
-      "name": "P-Model"
+      "name": "PM"
     },
     {
       "id": 3,
-      "name": "F-Model"
+      "name": "FM"
     },
     {
       "id": 4,
-      "name": "R-Model"
+      "name": "RM"
     },
     {
       "id": 5,
-      "name": "S-Test"
+      "name": "ST"
     },
     {
       "id": 6,
-      "name": "H-Test"
+      "name": "HT"
     },
     {
       "id": 7,
-      "name": "C-Test"
+      "name": "CT"
     },
     {
       "id": 8,
-      "name": "H-Test"
+      "name": "CHT"
     },
     {
       "id": 9,
-      "name": "M-Test"
+      "name": "MHT"
     }
   ],
   "links": [
